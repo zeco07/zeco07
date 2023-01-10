@@ -18,6 +18,8 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          SYMBOL_VERSION: "2"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
