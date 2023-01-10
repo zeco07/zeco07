@@ -3,7 +3,7 @@
 <p>Hi, I am a student who dreams of becoming a backend developer.<br><br>
 My main skills are Python and C.<br><br>
 I am a passionate person, and I am working hard to become a great developer.😁<br></p>
-<img src="https://img.shields.io/badge/BLOG-white?style=flat&logo=tistory&logoColor=000000"/>&nbsp;&nbsp;
+<a href="https://dylan-han.tistory.com/"><img src="https://img.shields.io/badge/BLOG-white?style=flat&logo=tistory&logoColor=000000"/></a>
 <h1></h1>
 <h3>⚡Tech Stack⚡</h3>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=3776AB"/>&nbsp;&nbsp;
