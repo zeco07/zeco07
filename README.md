@@ -20,7 +20,9 @@ I am a passionate person, and I am working hard to become a great developer.😁
 
 <h1></h1>
 <h3>🖥️ Work Stats 🖥️</h3>
-
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 <h1></h1>
 <h3>🏆 Ranking 🏆</h3>
@@ -37,5 +39,3 @@ I am a passionate person, and I am working hard to become a great developer.😁
 
 
 </div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
