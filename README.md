@@ -19,19 +19,23 @@ I am a passionate person, and I am working hard to become a great developer.😁
 <img src="https://img.shields.io/badge/AHK-white?style=flat&logo=autohotkey&logoColor=334455"/>&nbsp;&nbsp;
 
 <h1></h1>
+<h3>🖥️ Work Stats 🖥️</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+<h1></h1>
 <h3>🏆 Ranking 🏆</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dylan_han)](https://solved.ac/dylan_han/)
 <h1></h1>
 
-<h3>🖥️ Github Stats 🖥️</h3>
+<h3>🛠️ Github Stats 🛠️</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeco07&show_icons=true&theme=prussian)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeco07&layout=compact&theme=prussian)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>
