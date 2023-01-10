@@ -22,22 +22,6 @@ I am a passionate person, and I am working hard to become a great developer.😁
 <h3>🖥️ Work Stats 🖥️</h3>
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-241-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 30 Contributions in the Year 2023
- > 
-> 📦 24 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in Python** 
 
 ```text
@@ -47,7 +31,6 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 10/01/2023 10:57:28 UTC
 <!--END_SECTION:waka-->
   
 <h1></h1>
