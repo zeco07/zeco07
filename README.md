@@ -30,4 +30,8 @@ I am a passionate person, and I am working hard to become a great developer.😁
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeco07&layout=compact&theme=prussian)
- </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
