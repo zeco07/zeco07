@@ -18,9 +18,11 @@ I am a passionate person, and I am working hard to become a great developer.😁
 <br><br>
 <img src="https://img.shields.io/badge/AHK-white?style=flat&logo=autohotkey&logoColor=334455"/>&nbsp;&nbsp;
 
-<!-- <h1></h1>
+<h1></h1>
 <h3>🖥️ Work Stats 🖥️</h3>
-   -->
+   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 <h1></h1>
 <h3>🏆 Ranking 🏆</h3>
