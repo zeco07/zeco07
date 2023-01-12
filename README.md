@@ -20,7 +20,7 @@ I am a passionate person, and I am working hard to become a great developer.😁
 
 <h1></h1>
 <h3>🖥️ Work Stats 🖥️</h3>
-   
+</div>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -51,7 +51,7 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 <!--END_SECTION:waka-->
-  
+<div align="center">
 <h1></h1>
 <h3>🏆 Ranking 🏆</h3>
 
