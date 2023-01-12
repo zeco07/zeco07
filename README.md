@@ -61,7 +61,7 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <h3>🛠️ Github Stats 🛠️</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeco07&show_icons=true&theme=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeco07&show_icons=true&theme=prussian)
    
 <br>
 
