@@ -65,7 +65,7 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
    
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeco07&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zeco07&layout=compact&theme=prussian)
 
 
 </div>
