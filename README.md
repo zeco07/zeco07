@@ -38,7 +38,7 @@ I am a passionate person, and I am working hard to become a great developer.😁
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
