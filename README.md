@@ -40,6 +40,12 @@ I am a passionate person, and I am working hard to become a great developer.😁
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
